@@ -34,7 +34,7 @@ Building platforms that integrate **AI, IoT, Flutter, React, Supabase, Firebase,
 
 ## 📂 Highlight Projects
 
-### 🔹 [💼 TeknoHub – Arabia Connect](https://github.com/fahmialamere/tekno-hub-arabia-connect-11)
+### 🔹 [💼 TeknoHub – Arabia Connect](https://github.com/fahm99/tekno-hub-arabia-connect-11.git)
 
 منصة توظيف واحتضان للمبرمجين والمواهب التقنية في الوطن العربي، تسهل الربط بين أصحاب المشاريع والمطورين في بيئة احترافية تدعم العمل عن بُعد.
 
