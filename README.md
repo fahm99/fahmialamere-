@@ -1,170 +1,83 @@
-👨‍💻 Fahmi Alamere
+# 👨‍💻 Fahmi Alamere
 
-IT Engineer | Full-Stack & Mobile Developer | Software Innovator
-Building platforms that integrate AI, IoT, Flutter, React, Supabase, Firebase, C#, and more...
-
-
----
-
-🚀 About Me
-
-🎓 Passionate IT Engineer with a deep understanding of modern full-stack development and scalable software solutions.
-
-💡 I specialize in Web & Mobile App Development and love turning complex ideas into functional applications.
-
-🌍 I focus on solving real-world problems in sectors like agriculture, education, and healthcare through intelligent digital innovation.
-
-
+**Presales Engineer | IT Solutions Specialist | Full-Stack & Mobile Innovator**  
+Building technical solutions that solve real-world problems and help clients achieve business goals using AI, IoT, Flutter, React, Supabase, Firebase, and more.
 
 ---
 
-🛠️ Tech Stack
+## 🚀 About Me
 
-💻 Frontend
-
-React, Next.js, Tailwind CSS, Flutter
-
-
-🖥 Backend
-
-Node.js, Express.js, Django, Supabase Functions, Firebase Functions
-
-
-📱 Mobile
-
-Flutter, React Native
-
-
-🗄 Databases
-
-PostgreSQL, MongoDB, Firebase, SQLite
-
-
-🧰 Tools & DevOps
-
-Git, Docker, CI/CD Pipelines, REST APIs, GraphQL, Figma, Zustand, Bloc, Riverpod
-
-
+🎓 IT Engineer with strong experience in software development and technical consulting.  
+💡 Passionate about bridging **technology and business**, turning complex technical ideas into **practical solutions** for clients.  
+🌍 Focused on solving challenges in **agriculture, education, healthcare**, and other sectors through **intelligent digital solutions**.
 
 ---
 
-📂 Highlight Projects
+## 🛠️ Core Skills
 
-🔹 💼 TeknoHub – Arabia Connect
+### Client-Facing & Presales Skills
+- Technical solution design and consulting
+- Proposal writing and technical presentations
+- Proof of Concept (PoC) implementation
+- Requirement analysis and client discovery
 
-A digital platform connecting Arab tech talent with job opportunities, open-source projects, and professional communities across the region.
-
-> ⌨️ Built with: React, TypeScript, Tailwind CSS, Supabase
-
-
-
-
----
-
-🔹 🌾 SAM – Smart Agricultural Mentor (Private)
-
-A full-stack smart agriculture system integrating AI + IoT, designed to empower local farmers with intelligent tools:
-
-🌱 Sensor-driven monitoring of soil, humidity, temperature, and water levels using ESP32
-
-🤖 AI-based crop disease detection using TFLite models
-
-💧 Smart irrigation system based on real-time data
-
-🛒 Built-in agricultural social marketplace
-
-🧮 Fertilizer & pesticide calculator based on crop & soil type
-
-👨‍🌾 Live support from agricultural experts
-
-📱 Offline-first Flutter mobile app with cloud backend
-
-
-> 🛠️ Built with: Flutter, Dart, MQTT, Firebase, Supabase, Python (AI), ESP32
-
-
-
+### Technical Skills
+**Frontend:** React, Next.js, Tailwind CSS, Flutter  
+**Backend:** Node.js, Express.js, Django, Supabase Functions, Firebase Functions  
+**Mobile:** Flutter, React Native  
+**Databases:** PostgreSQL, MongoDB, Firebase, SQLite  
+**Tools & DevOps:** Git, Docker, CI/CD Pipelines, REST APIs, GraphQL, Figma, Zustand, Bloc, Riverpod  
 
 ---
 
-🔹 🩺 MedZone Connect (Dr.Zone AI)
+## 📂 Highlight Projects
 
-A social platform for medical researchers and doctors to share scientific content, protect intellectual property, and collaborate across borders.
-Initial features include a doctor-only sign-up system, AI-based assistant (ZoneBot), and multi-language support.
+### 🔹 SAM – Smart Agricultural Mentor
+A full-stack smart agriculture system integrating AI + IoT to empower farmers with real-time insights:
+- Sensor-driven soil, humidity, temperature, and water monitoring (ESP32)
+- AI-based crop disease detection
+- Smart irrigation automation
+- Agricultural social marketplace
 
-> 🔧 Built with: Next.js, Firebase, MongoDB, AI Tools
-
-
-
-
----
-
-🔹 🧪 TechVoc – Technical Vocational Platform (Private)
-
-A hybrid vocational training platform aimed at empowering rural youth and women through practical, locally-tailored tech education.
-Features include skill-matching, Arabic content, and community-led workshops.
-
-> 🔧 Built with: React, Tailwind CSS, Firebase
-
-
-
+**Role:** Technical design, presales demos, client solution consultation
 
 ---
 
-🔹 🎓 Wasla – Digital University Bridge (Private)
+### 🔹 MedZone Connect (Dr.Zone AI)
+A social platform for medical researchers and doctors to collaborate and share knowledge.
 
-A hybrid e-learning platform connecting Yemeni universities with rural students.
-Includes digital enrollment, localized offline content, virtual classrooms, and gamified learning.
-
-> 🛠️ Built with: Flutter, Firebase, Supabase, API Integration
-
-
-
+**Role:** Presented solution to stakeholders, developed PoC, and customized technical proposals
 
 ---
 
-🔹 📚 Tamkeen – Academic Curriculum Hub (Private)
+### 🔹 TechVoc – Technical Vocational Platform
+Hybrid vocational training platform for rural youth and women.
 
-An academic content management system centralizing all Yemeni university curriculums by faculty, level, and subject.
-Helps both students and educators access structured materials and build study plans.
-
-> 🔧 Built with: React, Supabase, Firebase Storage
-
-
-
+**Role:** Requirement gathering, technical consultation, and solution design
 
 ---
 
-🔹 👮‍♂️ AI Sketch to Face (Private)
+### 🔹 Wasla – Digital University Bridge
+E-learning platform connecting Yemeni universities with rural students.
 
-A forensic AI system converting drawn sketches or text descriptions into realistic facial images using GAN models.
-Useful in crime investigations and suspect identification.
-
-> 🛠️ Built with: Python, GANs, Tkinter GUI, Text-to-Image ML
-
-
-
+**Role:** Presales demonstrations, client needs analysis, and technical proposal development
 
 ---
 
-📫 Contact Me
+### 🔹 AI Sketch to Face
+Forensic AI system converting sketches into realistic facial images using GAN models.
 
-📧 Email: fahmi.fuad.ahmed99@gmail.com
-
-💼 LinkedIn: linkedin.com/in/fahmi-al-amere-4763a0250
-
-🌐 Portfolio: jade-dani-52.tiiny.site
-
-
+**Role:** Designed solution demos for law enforcement stakeholders
 
 ---
 
-💬 Quote
+## 📫 Contact Me
 
-> “Code is a tool for thought – I build tools that empower, connect, and inspire.”
-
-
-
+📧 Email: fahmi.fuad.ahmed99@gmail.com  
+💼 LinkedIn: [linkedin.com/in/fahmi-al-amere-4763a0250](https://linkedin.com/in/fahmi-al-amere-4763a0250)  
+🌐 Portfolio: [jade-dani-52.tiiny.site](https://jade-dani-52.tiiny.site)
 
 ---
 
+💬 **Quote:**  
+> “I translate complex technology into real solutions that help clients succeed.”
